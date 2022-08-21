@@ -64,9 +64,17 @@ async def main_sithijatd():
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_")
                 ], 
                 [
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
@@ -80,6 +88,10 @@ async def main_sithijatd():
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_")
                 ],
                 [
@@ -88,9 +100,17 @@ async def main_sithijatd():
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_")
                 ],
                 [
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
                    InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
