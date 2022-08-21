@@ -59,6 +59,46 @@ async def main_sithijatd():
                     InlineKeyboardButton(f"⌚️ {Time_Std} ", callback_data="timeshow_")
                 ],
                 [
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_")
+                ], 
+                [
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_")
+                ],
+               [
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_")
+                ],
+                [
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_")
+                ],
+                [
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚧", callback_data="rescpet_"),
+                   InlineKeyboardButton(f"🚦", callback_data="rescpet_")
+                ],
+                [
                     InlineKeyboardButton("💬Contract Me💬", user_id="@SAVINDU_DESHAN_BOT") 
                 ],
                 [
