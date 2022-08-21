@@ -33,7 +33,7 @@ async def time(_, query: CallbackQuery):
               TimeZone_Std = datetime.datetime.now(pytz.timezone(f"{TIME_ZONE}"))
               Time_Std = TimeZone_Std.strftime("%I:%M %p")
               Date_Std = TimeZone_Std.strftime("%B %d") 
-              timetxt = f"☘️Now Time\n\n⏰Time: {Time_Std}\n📅Date: {Date_Std}\nTime Zone: {TIME_ZONE}\n\nPowered by☘️\n@ItsMeSithija"
+              timetxt = f"☘️Now Time\n\n⏰Time: {Time_Std}\n📅Date: {Date_Std}\nTime Zone: {TIME_ZONE}\n\nPowered by☘️\n@Dev_Saviya"
               await poststd.answer_callback_query(query.id, text=timetxt, show_alert=True)
 
 @poststd.on_callback_query(filters.regex("rescpet_"))
