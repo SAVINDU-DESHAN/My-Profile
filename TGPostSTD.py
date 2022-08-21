@@ -14,7 +14,7 @@ APPID = "4875414"
 APIHASH = "ecf8c1d5835af69a4040ba117ff96476"
 BOTTOKEN = "5531359092:AAHgy4iLj286BoWEDETQMZYk2u8LA_YILCY"
 CHANNEL_ID = -1001758011377
-MESSAGE_ID = 39
+MESSAGE_ID = 73
 TIME_ZONE = "Asia/Colombo"
 # Not Recommended to Change Other Things Of Code.
 
@@ -55,9 +55,7 @@ async def main_sithijatd():
                     InlineKeyboardButton(f"🇱🇰 SriLanka", callback_data="rescpet_")
                 ],
                 [
-                    InlineKeyboardButton(f"🗓 {Date_Std}", callback_data="timeshow_")
-                ],
-                [
+                    InlineKeyboardButton(f"🗓 {Date_Std}", callback_data="timeshow_"),
                     InlineKeyboardButton(f"⌚️ {Time_Std} ", callback_data="timeshow_")
                 ],
                 [
