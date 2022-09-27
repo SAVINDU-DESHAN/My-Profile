@@ -10,9 +10,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQ
 
 #-------------Variables--------------
 # Fill This Arias With Correct Values
-APPID = "4875414"
-APIHASH = "ecf8c1d5835af69a4040ba117ff96476"
-BOTTOKEN = "5531359092:AAHgy4iLj286BoWEDETQMZYk2u8LA_YILCY"
+APPID = "8726659"
+APIHASH = "a3b0863095e5d1d49036295d623522bd"
+BOTTOKEN = "5658569011:AAHVDppK5-WnEvRKlwEWSFv3Mvt5RTASFyY"
 CHANNEL_ID = -1001758011377
 MESSAGE_ID = 73
 TIME_ZONE = "Asia/Colombo"
