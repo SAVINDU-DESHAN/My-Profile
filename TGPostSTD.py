@@ -13,7 +13,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQ
 APPID = "4875414"
 APIHASH = "ecf8c1d5835af69a4040ba117ff96476"
 BOTTOKEN = "6676691749:AAHI69AVFKTx_Hwa9ppzh-iaBRgtfCKLpV0"
-CHANNEL_ID = -1001987738113
+CHANNEL_ID = -1001907028405
 MESSAGE_ID = 3
 TIME_ZONE = "Asia/Colombo"
 # Not Recommended to Change Other Things Of Code.
