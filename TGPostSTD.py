@@ -10,11 +10,11 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQ
 
 #-------------Variables--------------
 # Fill This Arias With Correct Values
-APPID = "8726659"
-APIHASH = "a3b0863095e5d1d49036295d623522bd"
-BOTTOKEN = "5658569011:AAHVDppK5-WnEvRKlwEWSFv3Mvt5RTASFyY"
-CHANNEL_ID = -1001758011377
-MESSAGE_ID = 73
+APPID = "4875414"
+APIHASH = "ecf8c1d5835af69a4040ba117ff96476"
+BOTTOKEN = "6676691749:AAHI69AVFKTx_Hwa9ppzh-iaBRgtfCKLpV0"
+CHANNEL_ID = -1001987738113
+MESSAGE_ID = 3
 TIME_ZONE = "Asia/Colombo"
 # Not Recommended to Change Other Things Of Code.
 
@@ -33,7 +33,7 @@ async def time(_, query: CallbackQuery):
               TimeZone_Std = datetime.datetime.now(pytz.timezone(f"{TIME_ZONE}"))
               Time_Std = TimeZone_Std.strftime("%I:%M %p")
               Date_Std = TimeZone_Std.strftime("%B %d") 
-              timetxt = f"☘️Now Time\n\n⏰Time: {Time_Std}\n📅Date: {Date_Std}\nTime Zone: {TIME_ZONE}\n\nPowered by☘️\n@Dev_Saviya"
+              timetxt = f"☘️Now Time\n\n⏰Time: {Time_Std}\n📅Date: {Date_Std}\nTime Zone: {TIME_ZONE}\n\nPowered by☘️\n@Savindu_deshan"
               await poststd.answer_callback_query(query.id, text=timetxt, show_alert=True)
 
 @poststd.on_callback_query(filters.regex("rescpet_"))
@@ -123,7 +123,7 @@ async def main_sithijatd():
                 ],
                 [
                     InlineKeyboardButton("🚧 Github 🚧", url="https://github.com/SAVINDU-DESHAN"),
-                    InlineKeyboardButton("🚀 Youtube 🚀", url="https://www.youtube.com/c/Hide-Lab")   
+                    InlineKeyboardButton("🚀Facebook🚀", url="https://www.facebook.com/Savindu.D.Vijayasingha")   
                 ]
             ]))
               print("Time Updated!")
